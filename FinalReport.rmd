@@ -168,7 +168,10 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+ The information shows that between white and other races, there is not much of a difference with the p-value being around 0.27. However, there is an extreme difference between back people and whites with the p-value being 0.0016, and also an extreme difference between black people and other races with the p-value of 0.002022.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+ The data shows the extreme differences between black people and other races/whites when it comes to favoring or opposing capitol punishment. However, this difference is not evident with all races while whites and others share a closer percentage. To conclude, because the p-values show little to no relevance toward one another, we reject the null hypothesis .
