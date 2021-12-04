@@ -26,8 +26,11 @@ mydata <- na.omit(mydata)
 
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?.  If you skimp in this section expect to be marked down in your grade. Paint a picture of the project a couple of paragraphs is expected!-->
 
-Is attitude toward capitol punishment (cappun) independent of race (race)?
+Is attitude toward capitol punishment (CAPPUN) independent of race (RACE)?
 If not, then whose view differs from whom??
+
+$H_0$: The attitude towards capitol punishment is independent of race 
+$H_A$: The attitude towards capitol punishment is dependent on race
 
 # Methods
 
