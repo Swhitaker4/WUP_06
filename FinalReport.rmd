@@ -80,7 +80,7 @@ table2 <- xtabs(~race + cappun, data=mydata)
 rowPerc(table2)
 colPerc(table2)
 ```
- The tables show that around 35% of black people favor capitol punishment and more that 65% of whites and other races favoring capitol punishment as well. With more than 65% of black people opposing capitol punishment. There appears to be a correlation between race and capitol punishment. 
+ The tables show that around 35% of black people favor capitol punishment along with more than 65% of whites. With more than 65% of black people opposing capitol punishment. There appears to be a correlation between race and capitol punishment. 
 
 ## Inferential Results
 
